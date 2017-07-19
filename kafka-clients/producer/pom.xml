@@ -7,7 +7,12 @@
     <groupId>io.confluent</groupId>
     <artifactId>producer-example</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.1</version>
+
+    <parent>
+        <groupId>com.jd</groupId>
+        <artifactId>kafka</artifactId>
+        <version>1.0</version>
+    </parent>
 
     <organization>
         <name>Confluent, Inc.</name>
