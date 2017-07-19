@@ -6,6 +6,7 @@
 
     <groupId>io.confluent</groupId>
     <artifactId>clickstream-sessionizing-consumer</artifactId>
+    <version>3.2.2</version>
 
     <parent>
         <groupId>com.jd</groupId>
